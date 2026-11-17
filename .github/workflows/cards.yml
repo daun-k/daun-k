@@ -14,7 +14,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=4'
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=4&width=400'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
