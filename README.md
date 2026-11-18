@@ -3,6 +3,15 @@
 ![Top Languages](./profile/top-langs.svg)
 <!-- README-STATS:START -->
 
+```
+🕰️ I get my jam on during the daytime!
+
+🌞 Morning  	4      commits	███░░░░░░░░░░░░░░░░░░░░░░░░░░░	6.56%
+🌆 Daytime  	30     commits	██████████████████████████████	49.18%
+🌃 Evening  	16     commits	███████████████░░░░░░░░░░░░░░░	26.23%
+🌙 Night    	11     commits	███████████░░░░░░░░░░░░░░░░░░░	18.03%
+```
+
 <!-- README-STATS:END -->
 
 <!--
